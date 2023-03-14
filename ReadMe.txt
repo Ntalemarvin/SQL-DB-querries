@@ -1,0 +1,1 @@
+These are basics of SQL Database and they will run under microsoft SQL server managment studio
